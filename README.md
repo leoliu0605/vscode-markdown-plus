@@ -28,3 +28,8 @@
   - https://github.com/mushanshitiancai/vscode-paste-image
 - [ ] link check
   - https://github.com/tcort/markdown-link-check
+- https://github.com/iamgio/quarkdown
+- https://github.com/hackmdio/pandoc.js
+- https://github.com/pandao/editor.md
+- https://github.com/mdx-js/mdx
+- https://github.com/benweet/stackedit
