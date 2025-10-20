@@ -33,3 +33,6 @@
 - https://github.com/pandao/editor.md
 - https://github.com/mdx-js/mdx
 - https://github.com/benweet/stackedit
+- https://github.com/marktext/marktext
+- https://github.com/markdown-it/markdown-it
+- https://github.com/jonathanyeung/mark-sharp
