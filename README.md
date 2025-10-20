@@ -1,6 +1,6 @@
 # vscode-markdown-plus
 
-### Features
+## Features
 
 - Common
   - https://github.com/shd101wyy/vscode-markdown-preview-enhanced
@@ -12,7 +12,7 @@
     - [ ] Paste link on selected text
 - [ ] markdown prettier
   - https://github.com/leoliu0605/npm-markdown-formatter
-  - https://github.com/takumisoft68/vscode-markdown-table
+  - https://github.com/takumisoft68/vscode-markdown-table and support `pandoc table`
   - https://github.com/sumnow/markdown-formatter
   - https://github.com/shuGH/vscode-table-formatter
   - https://github.com/prettier/prettier-vscode
